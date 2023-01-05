@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669514046 source:c:\users\siti vanesa rahma\documents\semester 3\std\mod 10\tp_mod10_1301213086\main.cpp
+	<iostream>
+	"stack.h"
+
+1669513610 source:c:\users\siti vanesa rahma\documents\semester 3\std\mod 10\tp_mod10_1301213086\stack.cpp
+	"stack.h"
+
+1669474010 c:\users\siti vanesa rahma\documents\semester 3\std\mod 10\tp_mod10_1301213086\stack.h
+	<iostream>
+
